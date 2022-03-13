@@ -30,6 +30,7 @@ header nav .nav-right-section {
     list-style: none;
     justify-content: center;
     align-items: center;
+    padding-left: 32px;
 }
 nav .nav-right-section a {
     margin-right: 10px;
@@ -132,7 +133,7 @@ footer {
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
-    font-size: 13px;
+    font-size: 14px;
     background-color: #f2f2f2;
     border-top: 1px solid #e4e4e4;
 }
@@ -150,5 +151,5 @@ footer .footer-right {
 }
 footer ul li a {
     margin: 10px;
-    color: #5f6368;
+    color: #70757a;
 }
